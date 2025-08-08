@@ -1,0 +1,602 @@
+[
+  {
+    "question": "What color is the sky on a clear day?",
+    "options": [
+      "Blue",
+      "Green",
+      "Red",
+      "Yellow"
+    ],
+    "correct_answer": "Blue",
+    "explanation": "Rayleigh scattering makes the sky appear blue.",
+    "level": "icebreaker"
+  },
+  {
+    "question": "Which animal says 'meow'?",
+    "options": [
+      "Dog",
+      "Cat",
+      "Cow",
+      "Sheep"
+    ],
+    "correct_answer": "Cat",
+    "explanation": "Cats vocalize a characteristic meow sound.",
+    "level": "icebreaker"
+  },
+  {
+    "question": "How many wheels does a standard bicycle have?",
+    "options": [
+      "1",
+      "3",
+      "2",
+      "4"
+    ],
+    "correct_answer": "2",
+    "explanation": "A typical bicycle has two wheels.",
+    "level": "icebreaker"
+  },
+  {
+    "question": "Which fruit is yellow and curved?",
+    "options": [
+      "Apple",
+      "Grape",
+      "Plum",
+      "Banana"
+    ],
+    "correct_answer": "Banana",
+    "explanation": "Bananas ripen yellow and have a curved shape.",
+    "level": "icebreaker"
+  },
+  {
+    "question": "What do bees make?",
+    "options": [
+      "Honey",
+      "Silk",
+      "Cheese",
+      "Bread"
+    ],
+    "correct_answer": "Honey",
+    "explanation": "Bees process nectar into honey.",
+    "level": "icebreaker"
+  },
+  {
+    "question": "Which drink is made from ground roasted beans?",
+    "options": [
+      "Milk",
+      "Coffee",
+      "Tea",
+      "Juice"
+    ],
+    "correct_answer": "Coffee",
+    "explanation": "Coffee is brewed from roasted coffee beans.",
+    "level": "icebreaker"
+  },
+  {
+    "question": "How many letters are in the word 'CAT'?",
+    "options": [
+      "2",
+      "4",
+      "3",
+      "5"
+    ],
+    "correct_answer": "3",
+    "explanation": "C-A-T has three letters.",
+    "level": "icebreaker"
+  },
+  {
+    "question": "Which shape has no corners?",
+    "options": [
+      "Square",
+      "Triangle",
+      "Rectangle",
+      "Circle"
+    ],
+    "correct_answer": "Circle",
+    "explanation": "A circle is a continuous curve with no vertices.",
+    "level": "icebreaker"
+  },
+  {
+    "question": "Which animal barks?",
+    "options": [
+      "Dog",
+      "Cat",
+      "Horse",
+      "Fish"
+    ],
+    "correct_answer": "Dog",
+    "explanation": "Dogs commonly bark to communicate.",
+    "level": "icebreaker"
+  },
+  {
+    "question": "What is 1 + 1?",
+    "options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "correct_answer": "2",
+    "explanation": "Basic arithmetic: 1 plus 1 equals 2.",
+    "level": "icebreaker"
+  },
+  {
+    "question": "What is the opposite of hot?",
+    "options": [
+      "Warm",
+      "Fire",
+      "Cold",
+      "Boil"
+    ],
+    "correct_answer": "Cold",
+    "explanation": "Cold is the antonym of hot in temperature context.",
+    "level": "icebreaker"
+  },
+  {
+    "question": "Which season is often associated with snow (in temperate zones)?",
+    "options": [
+      "Summer",
+      "Spring",
+      "Autumn",
+      "Winter"
+    ],
+    "correct_answer": "Winter",
+    "explanation": "Snow most often falls in winter in temperate climates.",
+    "level": "icebreaker"
+  },
+  {
+    "question": "Which organ do we use to smell?",
+    "options": [
+      "Nose",
+      "Ear",
+      "Eye",
+      "Hand"
+    ],
+    "correct_answer": "Nose",
+    "explanation": "Olfactory receptors are located in the nasal cavity.",
+    "level": "icebreaker"
+  },
+  {
+    "question": "Which animal gives us milk?",
+    "options": [
+      "Hen",
+      "Cow",
+      "Frog",
+      "Bee"
+    ],
+    "correct_answer": "Cow",
+    "explanation": "Cows are dairy livestock producing milk.",
+    "level": "icebreaker"
+  },
+  {
+    "question": "What do you call frozen water?",
+    "options": [
+      "Steam",
+      "Rain",
+      "Ice",
+      "Cloud"
+    ],
+    "correct_answer": "Ice",
+    "explanation": "Water solidifies into ice below 0°C at 1 atm.",
+    "level": "icebreaker"
+  },
+  {
+    "question": "How many sides does a triangle have?",
+    "options": [
+      "4",
+      "5",
+      "6",
+      "3"
+    ],
+    "correct_answer": "3",
+    "explanation": "A triangle has three sides.",
+    "level": "icebreaker"
+  },
+  {
+    "question": "Which pet purrs?",
+    "options": [
+      "Cat",
+      "Dog",
+      "Parrot",
+      "Goldfish"
+    ],
+    "correct_answer": "Cat",
+    "explanation": "Domestic cats purr when content (and other states).",
+    "level": "icebreaker"
+  },
+  {
+    "question": "Which is a primary color of light?",
+    "options": [
+      "Cyan",
+      "Red",
+      "Magenta",
+      "Black"
+    ],
+    "correct_answer": "Red",
+    "explanation": "Additive primary colors: red, green, blue.",
+    "level": "icebreaker"
+  },
+  {
+    "question": "What do we breathe in to survive?",
+    "options": [
+      "Carbon dioxide",
+      "Helium",
+      "Oxygen",
+      "Smoke"
+    ],
+    "correct_answer": "Oxygen",
+    "explanation": "Oxygen is essential for aerobic respiration.",
+    "level": "icebreaker"
+  },
+  {
+    "question": "Which animal has a trunk?",
+    "options": [
+      "Lion",
+      "Eagle",
+      "Shark",
+      "Elephant"
+    ],
+    "correct_answer": "Elephant",
+    "explanation": "Elephants use their trunks for grasping and breathing.",
+    "level": "icebreaker"
+  },
+  {
+    "question": "Which meal is typically first in the day?",
+    "options": [
+      "Breakfast",
+      "Dinner",
+      "Supper",
+      "Midnight snack"
+    ],
+    "correct_answer": "Breakfast",
+    "explanation": "Breakfast breaks the overnight fast.",
+    "level": "icebreaker"
+  },
+  {
+    "question": "How many legs does a human have?",
+    "options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "correct_answer": "2",
+    "explanation": "Humans are bipedal primates.",
+    "level": "icebreaker"
+  },
+  {
+    "question": "Which animal lives in water and has gills?",
+    "options": [
+      "Dog",
+      "Cat",
+      "Fish",
+      "Horse"
+    ],
+    "correct_answer": "Fish",
+    "explanation": "Fish extract dissolved oxygen via gills.",
+    "level": "icebreaker"
+  },
+  {
+    "question": "What color are healthy plant leaves usually?",
+    "options": [
+      "Blue",
+      "Purple",
+      "White",
+      "Green"
+    ],
+    "correct_answer": "Green",
+    "explanation": "Chlorophyll pigments make leaves appear green.",
+    "level": "icebreaker"
+  },
+  {
+    "question": "Which day comes after Monday?",
+    "options": [
+      "Tuesday",
+      "Sunday",
+      "Friday",
+      "Thursday"
+    ],
+    "correct_answer": "Tuesday",
+    "explanation": "Week sequence: Monday then Tuesday.",
+    "level": "icebreaker"
+  },
+  {
+    "question": "Which utensil do you eat soup with?",
+    "options": [
+      "Fork",
+      "Spoon",
+      "Knife",
+      "Tongs"
+    ],
+    "correct_answer": "Spoon",
+    "explanation": "A spoon holds liquids for consumption.",
+    "level": "icebreaker"
+  },
+  {
+    "question": "Which animal says 'moo'?",
+    "options": [
+      "Sheep",
+      "Goat",
+      "Cow",
+      "Pig"
+    ],
+    "correct_answer": "Cow",
+    "explanation": "Cows vocalize a mooing sound.",
+    "level": "icebreaker"
+  },
+  {
+    "question": "Which appliance keeps food cold?",
+    "options": [
+      "Oven",
+      "Toaster",
+      "Kettle",
+      "Refrigerator"
+    ],
+    "correct_answer": "Refrigerator",
+    "explanation": "Refrigerators absorb heat internally to cool contents.",
+    "level": "icebreaker"
+  },
+  {
+    "question": "How many hours are in half a day?",
+    "options": [
+      "12",
+      "6",
+      "10",
+      "24"
+    ],
+    "correct_answer": "12",
+    "explanation": "Half of 24 hours equals 12.",
+    "level": "icebreaker"
+  },
+  {
+    "question": "Which fruit has seeds on the outside?",
+    "options": [
+      "Orange",
+      "Strawberry",
+      "Pear",
+      "Mango"
+    ],
+    "correct_answer": "Strawberry",
+    "explanation": "Strawberries' achenes (seeds) are on the exterior surface.",
+    "level": "icebreaker"
+  },
+  {
+    "question": "What do you call a young dog?",
+    "options": [
+      "Kitten",
+      "Calf",
+      "Puppy",
+      "Foal"
+    ],
+    "correct_answer": "Puppy",
+    "explanation": "A baby dog is called a puppy.",
+    "level": "icebreaker"
+  },
+  {
+    "question": "What device shows the time?",
+    "options": [
+      "Radio",
+      "Phone charger",
+      "Keyboard",
+      "Clock"
+    ],
+    "correct_answer": "Clock",
+    "explanation": "A clock measures and displays time.",
+    "level": "icebreaker"
+  },
+  {
+    "question": "Which planet do we live on?",
+    "options": [
+      "Earth",
+      "Mars",
+      "Venus",
+      "Jupiter"
+    ],
+    "correct_answer": "Earth",
+    "explanation": "Humans inhabit planet Earth.",
+    "level": "icebreaker"
+  },
+  {
+    "question": "Which animal has a mane and roars?",
+    "options": [
+      "Elephant",
+      "Lion",
+      "Giraffe",
+      "Wolf"
+    ],
+    "correct_answer": "Lion",
+    "explanation": "Male lions have manes and characteristic roars.",
+    "level": "icebreaker"
+  },
+  {
+    "question": "What is the first letter of the English alphabet?",
+    "options": [
+      "B",
+      "C",
+      "A",
+      "Z"
+    ],
+    "correct_answer": "A",
+    "explanation": "Alphabet starts with A.",
+    "level": "icebreaker"
+  },
+  {
+    "question": "Which season follows spring (N. Hemisphere)?",
+    "options": [
+      "Autumn",
+      "Winter",
+      "Spring",
+      "Summer"
+    ],
+    "correct_answer": "Summer",
+    "explanation": "Season order: spring → summer.",
+    "level": "icebreaker"
+  },
+  {
+    "question": "What do you call water that falls from clouds?",
+    "options": [
+      "Rain",
+      "Snow",
+      "Fog",
+      "Steam"
+    ],
+    "correct_answer": "Rain",
+    "explanation": "Rain is liquid precipitation.",
+    "level": "icebreaker"
+  },
+  {
+    "question": "Which animal is known for hopping and has long ears?",
+    "options": [
+      "Snake",
+      "Rabbit",
+      "Whale",
+      "Swan"
+    ],
+    "correct_answer": "Rabbit",
+    "explanation": "Rabbits have elongated ears and hop for locomotion.",
+    "level": "icebreaker"
+  },
+  {
+    "question": "What freezes into ice cubes in a freezer?",
+    "options": [
+      "Juice",
+      "Oil",
+      "Water",
+      "Sand"
+    ],
+    "correct_answer": "Water",
+    "explanation": "Water transitions to solid ice below 0°C.",
+    "level": "icebreaker"
+  },
+  {
+    "question": "Which sense uses the eyes?",
+    "options": [
+      "Hearing",
+      "Taste",
+      "Smell",
+      "Sight"
+    ],
+    "correct_answer": "Sight",
+    "explanation": "Vision is mediated by photoreceptors in the eyes.",
+    "level": "icebreaker"
+  },
+  {
+    "question": "Which animal gives us eggs commonly eaten at breakfast?",
+    "options": [
+      "Chicken",
+      "Sheep",
+      "Horse",
+      "Donkey"
+    ],
+    "correct_answer": "Chicken",
+    "explanation": "Domestic chickens lay widely consumed eggs.",
+    "level": "icebreaker"
+  },
+  {
+    "question": "What do you call moving water in a river?",
+    "options": [
+      "Cloud",
+      "Current",
+      "Root",
+      "Thread"
+    ],
+    "correct_answer": "Current",
+    "explanation": "Flowing water creates a current.",
+    "level": "icebreaker"
+  },
+  {
+    "question": "Which shape has four equal sides?",
+    "options": [
+      "Rectangle",
+      "Triangle",
+      "Square",
+      "Circle"
+    ],
+    "correct_answer": "Square",
+    "explanation": "A square has four congruent sides and right angles.",
+    "level": "icebreaker"
+  },
+  {
+    "question": "What fruit do we associate with teachers (symbolically)?",
+    "options": [
+      "Banana",
+      "Kiwi",
+      "Cherry",
+      "Apple"
+    ],
+    "correct_answer": "Apple",
+    "explanation": "Apples historically were gifted to teachers.",
+    "level": "icebreaker"
+  },
+  {
+    "question": "Which animal honks and has webbed feet?",
+    "options": [
+      "Goose",
+      "Cow",
+      "Dog",
+      "Cat"
+    ],
+    "correct_answer": "Goose",
+    "explanation": "Geese produce honking calls and have webbed feet.",
+    "level": "icebreaker"
+  },
+  {
+    "question": "Which tool do you use to cut paper?",
+    "options": [
+      "Hammer",
+      "Scissors",
+      "Wrench",
+      "Spoon"
+    ],
+    "correct_answer": "Scissors",
+    "explanation": "Scissors have two pivoted blades for cutting.",
+    "level": "icebreaker"
+  },
+  {
+    "question": "Which household pet is known for wagging its tail when happy?",
+    "options": [
+      "Cat",
+      "Fish",
+      "Dog",
+      "Hamster"
+    ],
+    "correct_answer": "Dog",
+    "explanation": "Dogs often wag tails as a social signal.",
+    "level": "icebreaker"
+  },
+  {
+    "question": "How many toes are on one human foot (typical)?",
+    "options": [
+      "4",
+      "6",
+      "8",
+      "5"
+    ],
+    "correct_answer": "5",
+    "explanation": "Most humans have five toes per foot.",
+    "level": "icebreaker"
+  },
+  {
+    "question": "Which food is made from flour, water, and yeast then baked?",
+    "options": [
+      "Bread",
+      "Cheese",
+      "Butter",
+      "Yogurt"
+    ],
+    "correct_answer": "Bread",
+    "explanation": "Bread dough rises via yeast fermentation then bakes.",
+    "level": "icebreaker"
+  },
+  {
+    "question": "Which creature spins webs?",
+    "options": [
+      "Bee",
+      "Spider",
+      "Ant",
+      "Wasp"
+    ],
+    "correct_answer": "Spider",
+    "explanation": "Spiders extrude silk to build webs.",
+    "level": "icebreaker"
+  }
+]

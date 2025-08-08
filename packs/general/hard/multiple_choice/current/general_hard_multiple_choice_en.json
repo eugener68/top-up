@@ -1,0 +1,602 @@
+[
+  {
+    "question": "Which canal opened in 1869 drastically shortening the Europe–Asia sea route?",
+    "options": [
+      "Suez Canal",
+      "Panama Canal",
+      "Kiel Canal",
+      "Corinth Canal"
+    ],
+    "correct_answer": "Suez Canal",
+    "explanation": "Opened 1869 linking Mediterranean and Red Seas. Source: Suez Canal Authority",
+    "level": "hard"
+  },
+  {
+    "question": "Which particle carries a single negative elementary electric charge?",
+    "options": [
+      "Proton",
+      "Electron",
+      "Neutron",
+      "Positron"
+    ],
+    "correct_answer": "Electron",
+    "explanation": "Electrons have −1e charge. Source: CODATA",
+    "level": "hard"
+  },
+  {
+    "question": "Which empire built the Great Wall sections consolidated under Qin Shi Huang?",
+    "options": [
+      "Han Empire",
+      "Ming Empire",
+      "Qin Empire",
+      "Tang Empire"
+    ],
+    "correct_answer": "Qin Empire",
+    "explanation": "Qin unified earlier walls ~3rd century BCE. Source: UNESCO",
+    "level": "hard"
+  },
+  {
+    "question": "Which scientist proposed natural selection jointly with Darwin in 1858?",
+    "options": [
+      "Gregor Mendel",
+      "Thomas Huxley",
+      "Ernst Haeckel",
+      "Alfred Russel Wallace"
+    ],
+    "correct_answer": "Alfred Russel Wallace",
+    "explanation": "Wallace's letter prompted Darwin's joint presentation. Source: Linnean Society",
+    "level": "hard"
+  },
+  {
+    "question": "Which continent's highest peak is Aconcagua?",
+    "options": [
+      "South America",
+      "Africa",
+      "Europe",
+      "Asia"
+    ],
+    "correct_answer": "South America",
+    "explanation": "Aconcagua (6,961 m) in Andes. Source: National Geographic",
+    "level": "hard"
+  },
+  {
+    "question": "Which language family includes Hindi and Persian?",
+    "options": [
+      "Afroasiatic",
+      "Indo-European",
+      "Sino-Tibetan",
+      "Uralic"
+    ],
+    "correct_answer": "Indo-European",
+    "explanation": "Both derive from Indo-Iranian branch. Source: Ethnologue",
+    "level": "hard"
+  },
+  {
+    "question": "Which metal was first isolated by electrolysis by Humphry Davy in 1807?",
+    "options": [
+      "Aluminum",
+      "Magnesium",
+      "Sodium",
+      "Calcium"
+    ],
+    "correct_answer": "Sodium",
+    "explanation": "Davy isolated sodium via molten NaOH electrolysis. Source: Royal Society",
+    "level": "hard"
+  },
+  {
+    "question": "Which war ended with the Treaty of Versailles (1919)?",
+    "options": [
+      "World War II",
+      "Franco-Prussian War",
+      "Crimean War",
+      "World War I"
+    ],
+    "correct_answer": "World War I",
+    "explanation": "Versailles formally ended WWI in 1919. Source: National Archives",
+    "level": "hard"
+  },
+  {
+    "question": "Which desert covers much of Botswana and Namibia?",
+    "options": [
+      "Kalahari",
+      "Gobi",
+      "Atacama",
+      "Sonoran"
+    ],
+    "correct_answer": "Kalahari",
+    "explanation": "Kalahari semi-arid basin in southern Africa. Source: Encyclopaedia Britannica",
+    "level": "hard"
+  },
+  {
+    "question": "Which physicist formulated the three laws of motion in 1687?",
+    "options": [
+      "Galileo Galilei",
+      "Isaac Newton",
+      "Johannes Kepler",
+      "Christiaan Huygens"
+    ],
+    "correct_answer": "Isaac Newton",
+    "explanation": "Principia Mathematica (1687). Source: Royal Society",
+    "level": "hard"
+  },
+  {
+    "question": "Which organ secretes bile aiding lipid digestion?",
+    "options": [
+      "Pancreas",
+      "Gallbladder",
+      "Liver",
+      "Stomach"
+    ],
+    "correct_answer": "Liver",
+    "explanation": "Hepatocytes produce bile; gallbladder stores it. Source: Gray's Anatomy",
+    "level": "hard"
+  },
+  {
+    "question": "Which country launched the first artificial satellite Sputnik 1?",
+    "options": [
+      "United States",
+      "United Kingdom",
+      "France",
+      "Soviet Union"
+    ],
+    "correct_answer": "Soviet Union",
+    "explanation": "Sputnik 1 launched 1957. Source: NASA",
+    "level": "hard"
+  },
+  {
+    "question": "Which dynasty built most of the Forbidden City (completed 1420)?",
+    "options": [
+      "Ming",
+      "Qing",
+      "Song",
+      "Yuan"
+    ],
+    "correct_answer": "Ming",
+    "explanation": "Constructed under Ming Yongle Emperor. Source: UNESCO",
+    "level": "hard"
+  },
+  {
+    "question": "Which body of water separates Saudi Arabia from Africa?",
+    "options": [
+      "Persian Gulf",
+      "Red Sea",
+      "Arabian Sea",
+      "Gulf of Aden"
+    ],
+    "correct_answer": "Red Sea",
+    "explanation": "Red Sea lies between Arabia and Africa. Source: NOAA",
+    "level": "hard"
+  },
+  {
+    "question": "Which vitamin deficiency causes scurvy?",
+    "options": [
+      "Vitamin D",
+      "Vitamin A",
+      "Vitamin C",
+      "Vitamin K"
+    ],
+    "correct_answer": "Vitamin C",
+    "explanation": "Ascorbic acid deficiency impairs collagen. Source: WHO",
+    "level": "hard"
+  },
+  {
+    "question": "Which element has atomic number 26?",
+    "options": [
+      "Cobalt",
+      "Nickel",
+      "Chromium",
+      "Iron"
+    ],
+    "correct_answer": "Iron",
+    "explanation": "Fe is atomic number 26. Source: IUPAC",
+    "level": "hard"
+  },
+  {
+    "question": "Which sea is the saltiest large body of water on Earth?",
+    "options": [
+      "Dead Sea",
+      "Baltic Sea",
+      "Black Sea",
+      "Caribbean Sea"
+    ],
+    "correct_answer": "Dead Sea",
+    "explanation": "Dead Sea salinity ~10x ocean. Source: Geological Survey of Israel",
+    "level": "hard"
+  },
+  {
+    "question": "Which process converts liquid water directly to vapor below boiling point?",
+    "options": [
+      "Sublimation",
+      "Evaporation",
+      "Condensation",
+      "Deposition"
+    ],
+    "correct_answer": "Evaporation",
+    "explanation": "Surface molecules escape to gas phase. Source: NOAA",
+    "level": "hard"
+  },
+  {
+    "question": "Which playwright wrote 'The Importance of Being Earnest'?",
+    "options": [
+      "George Bernard Shaw",
+      "Tennessee Williams",
+      "Oscar Wilde",
+      "Arthur Miller"
+    ],
+    "correct_answer": "Oscar Wilde",
+    "explanation": "Premiered 1895 by Wilde. Source: British Library",
+    "level": "hard"
+  },
+  {
+    "question": "Which organ filters blood and regulates fluid balance by producing urine?",
+    "options": [
+      "Liver",
+      "Spleen",
+      "Pancreas",
+      "Kidney"
+    ],
+    "correct_answer": "Kidney",
+    "explanation": "Nephrons filter plasma forming urine. Source: Gray's Anatomy",
+    "level": "hard"
+  },
+  {
+    "question": "Which astronomical term denotes a star suddenly increasing brightness due to thermonuclear surface explosion on a white dwarf?",
+    "options": [
+      "Nova",
+      "Supernova",
+      "Quasar",
+      "Pulsar"
+    ],
+    "correct_answer": "Nova",
+    "explanation": "Nova from accreted hydrogen runaway fusion. Source: NASA",
+    "level": "hard"
+  },
+  {
+    "question": "Which archaeological city carved into rose-red rock was the Nabataean capital?",
+    "options": [
+      "Persepolis",
+      "Petra",
+      "Tikal",
+      "Angkor"
+    ],
+    "correct_answer": "Petra",
+    "explanation": "Petra in modern Jordan was the Nabataean capital. Source: UNESCO",
+    "level": "hard"
+  },
+  {
+    "question": "Which alloy primarily of copper and tin was pivotal in early tool advances?",
+    "options": [
+      "Brass",
+      "Steel",
+      "Bronze",
+      "Pewter"
+    ],
+    "correct_answer": "Bronze",
+    "explanation": "Bronze Age tools exploited copper-tin alloy hardness. Source: British Museum",
+    "level": "hard"
+  },
+  {
+    "question": "Which scientist discovered penicillin in 1928?",
+    "options": [
+      "Louis Pasteur",
+      "Robert Koch",
+      "Joseph Lister",
+      "Alexander Fleming"
+    ],
+    "correct_answer": "Alexander Fleming",
+    "explanation": "Fleming observed mold inhibiting bacteria. Source: Nobel Prize",
+    "level": "hard"
+  },
+  {
+    "question": "Which gas makes up roughly 21% of Earth's atmosphere?",
+    "options": [
+      "Oxygen",
+      "Nitrogen",
+      "Argon",
+      "Carbon dioxide"
+    ],
+    "correct_answer": "Oxygen",
+    "explanation": "O₂ ~20.95% by volume. Source: NOAA",
+    "level": "hard"
+  },
+  {
+    "question": "Which Roman structure carried water via gravity over long distances?",
+    "options": [
+      "Amphitheater",
+      "Aqueduct",
+      "Forum",
+      "Circus"
+    ],
+    "correct_answer": "Aqueduct",
+    "explanation": "Aqueducts used arches & gradients. Source: UNESCO",
+    "level": "hard"
+  },
+  {
+    "question": "Which scientist is associated with the law of universal gravitation?",
+    "options": [
+      "Albert Einstein",
+      "Galileo Galilei",
+      "Isaac Newton",
+      "Niels Bohr"
+    ],
+    "correct_answer": "Isaac Newton",
+    "explanation": "Described inverse-square gravitational law. Source: Royal Society",
+    "level": "hard"
+  },
+  {
+    "question": "Which structure connects muscle to bone enabling force transmission?",
+    "options": [
+      "Ligament",
+      "Cartilage",
+      "Fascia",
+      "Tendon"
+    ],
+    "correct_answer": "Tendon",
+    "explanation": "Tendons attach muscle to bone. Source: Gray's Anatomy",
+    "level": "hard"
+  },
+  {
+    "question": "Which strait separates Europe and Asia at Turkey's northwest?",
+    "options": [
+      "Bosphorus",
+      "Strait of Hormuz",
+      "Strait of Gibraltar",
+      "Dardanelles"
+    ],
+    "correct_answer": "Bosphorus",
+    "explanation": "Bosphorus links Black Sea to Sea of Marmara. Source: Hydrographic Office",
+    "level": "hard"
+  },
+  {
+    "question": "Which dynasty built much of the Great Wall's brick fortifications (14th–17th c.)?",
+    "options": [
+      "Qing",
+      "Ming",
+      "Han",
+      "Tang"
+    ],
+    "correct_answer": "Ming",
+    "explanation": "Ming rebuilt and extended sections. Source: UNESCO",
+    "level": "hard"
+  },
+  {
+    "question": "Which gas is consumed by plants during photosynthesis light-independent reactions?",
+    "options": [
+      "Oxygen",
+      "Methane",
+      "Carbon dioxide",
+      "Nitrous oxide"
+    ],
+    "correct_answer": "Carbon dioxide",
+    "explanation": "CO₂ fixed into carbohydrates. Source: Plant Physiology",
+    "level": "hard"
+  },
+  {
+    "question": "Which element's Latin name is 'Aurum'?",
+    "options": [
+      "Silver",
+      "Copper",
+      "Tin",
+      "Gold"
+    ],
+    "correct_answer": "Gold",
+    "explanation": "Gold symbol Au from 'aurum'. Source: IUPAC",
+    "level": "hard"
+  },
+  {
+    "question": "Which river flows through the capital of Egypt?",
+    "options": [
+      "Nile",
+      "Tigris",
+      "Euphrates",
+      "Jordan"
+    ],
+    "correct_answer": "Nile",
+    "explanation": "Cairo lies on Nile banks. Source: USGS",
+    "level": "hard"
+  },
+  {
+    "question": "Which process describes water vapor cooling to form liquid droplets?",
+    "options": [
+      "Evaporation",
+      "Condensation",
+      "Sublimation",
+      "Deposition"
+    ],
+    "correct_answer": "Condensation",
+    "explanation": "Phase change gas→liquid when air cools. Source: NOAA",
+    "level": "hard"
+  },
+  {
+    "question": "Which composer wrote the opera 'The Magic Flute'?",
+    "options": [
+      "Ludwig van Beethoven",
+      "Giuseppe Verdi",
+      "Wolfgang Amadeus Mozart",
+      "Richard Wagner"
+    ],
+    "correct_answer": "Wolfgang Amadeus Mozart",
+    "explanation": "Premiered 1791. Source: Salzburg Festival Archives",
+    "level": "hard"
+  },
+  {
+    "question": "Which continent hosts the majority of the world's boreal forest (taiga)?",
+    "options": [
+      "Africa",
+      "South America",
+      "Australia",
+      "Asia"
+    ],
+    "correct_answer": "Asia",
+    "explanation": "Siberian Russia contains vast boreal forest. Source: FAO",
+    "level": "hard"
+  },
+  {
+    "question": "Which physical quantity is measured in pascals?",
+    "options": [
+      "Pressure",
+      "Power",
+      "Energy",
+      "Force"
+    ],
+    "correct_answer": "Pressure",
+    "explanation": "1 Pa = 1 N/m². Source: BIPM",
+    "level": "hard"
+  },
+  {
+    "question": "Which explorer completed the first circumnavigation (crew) after Magellan's death?",
+    "options": [
+      "Christopher Columbus",
+      "Juan Sebastián Elcano",
+      "Vasco da Gama",
+      "James Cook"
+    ],
+    "correct_answer": "Juan Sebastián Elcano",
+    "explanation": "Elcano captained Victoria to completion 1522. Source: Naval Archives",
+    "level": "hard"
+  },
+  {
+    "question": "Which type of rock forms from solidified lava at Earth's surface?",
+    "options": [
+      "Intrusive igneous",
+      "Metamorphic",
+      "Extrusive igneous",
+      "Sedimentary"
+    ],
+    "correct_answer": "Extrusive igneous",
+    "explanation": "Rapid cooling forms fine-grained extrusive rock. Source: USGS",
+    "level": "hard"
+  },
+  {
+    "question": "Which hormone regulates blood glucose by promoting cellular uptake?",
+    "options": [
+      "Glucagon",
+      "Adrenaline",
+      "Cortisol",
+      "Insulin"
+    ],
+    "correct_answer": "Insulin",
+    "explanation": "Insulin lowers blood glucose. Source: Endocrine Society",
+    "level": "hard"
+  },
+  {
+    "question": "Which planet's day (rotation) is longer than its year (revolution)?",
+    "options": [
+      "Venus",
+      "Mercury",
+      "Mars",
+      "Jupiter"
+    ],
+    "correct_answer": "Venus",
+    "explanation": "Venus rotates ~243 Earth days; orbits ~225 days. Source: NASA",
+    "level": "hard"
+  },
+  {
+    "question": "Which scientist proposed the heliocentric model printed in 1543?",
+    "options": [
+      "Tycho Brahe",
+      "Nicolaus Copernicus",
+      "Johannes Kepler",
+      "Galileo Galilei"
+    ],
+    "correct_answer": "Nicolaus Copernicus",
+    "explanation": "De revolutionibus (1543). Source: History of Science Museum",
+    "level": "hard"
+  },
+  {
+    "question": "Which biological polymer is composed of nucleotide monomers?",
+    "options": [
+      "Protein",
+      "Cellulose",
+      "DNA",
+      "Chitin"
+    ],
+    "correct_answer": "DNA",
+    "explanation": "DNA built from nucleotide units. Source: Molecular Biology Text",
+    "level": "hard"
+  },
+  {
+    "question": "Which atmospheric layer hosts most weather phenomena?",
+    "options": [
+      "Stratosphere",
+      "Mesosphere",
+      "Thermosphere",
+      "Troposphere"
+    ],
+    "correct_answer": "Troposphere",
+    "explanation": "Weather occurs where most water vapor resides. Source: NOAA",
+    "level": "hard"
+  },
+  {
+    "question": "Which mathematician's name is given to the constant e ≈ 2.718?",
+    "options": [
+      "Leonhard Euler",
+      "Carl Gauss",
+      "Pierre de Fermat",
+      "David Hilbert"
+    ],
+    "correct_answer": "Leonhard Euler",
+    "explanation": "e is Euler's number. Source: Mathematics Handbook",
+    "level": "hard"
+  },
+  {
+    "question": "Which gas do aerobic organisms use as final electron acceptor in respiration?",
+    "options": [
+      "Nitrogen",
+      "Oxygen",
+      "Argon",
+      "Hydrogen"
+    ],
+    "correct_answer": "Oxygen",
+    "explanation": "O₂ reduced to water in ETC. Source: Biochemistry Text",
+    "level": "hard"
+  },
+  {
+    "question": "Which prehistoric monument in England aligns with sunrise at the summer solstice?",
+    "options": [
+      "Avebury",
+      "Newgrange",
+      "Stonehenge",
+      "Carnac"
+    ],
+    "correct_answer": "Stonehenge",
+    "explanation": "Stonehenge's Heel Stone alignment marks solstitial sunrise. Source: English Heritage",
+    "level": "hard"
+  },
+  {
+    "question": "Which ocean is the largest by surface area?",
+    "options": [
+      "Atlantic Ocean",
+      "Indian Ocean",
+      "Arctic Ocean",
+      "Pacific Ocean"
+    ],
+    "correct_answer": "Pacific Ocean",
+    "explanation": "Pacific ~165 million km². Source: NOAA",
+    "level": "hard"
+  },
+  {
+    "question": "Which scientist discovered radioactivity in uranium salts in 1896?",
+    "options": [
+      "Henri Becquerel",
+      "Marie Curie",
+      "Wilhelm Röntgen",
+      "Ernest Rutherford"
+    ],
+    "correct_answer": "Henri Becquerel",
+    "explanation": "Becquerel observed spontaneous emissions from uranium. Source: Nobel Prize",
+    "level": "hard"
+  },
+  {
+    "question": "Which gas gives rotten eggs their characteristic smell?",
+    "options": [
+      "Methane",
+      "Hydrogen sulfide",
+      "Ammonia",
+      "Sulfur dioxide"
+    ],
+    "correct_answer": "Hydrogen sulfide",
+    "explanation": "Hydrogen sulfide (H₂S) produces the pungent odor. Source: CDC",
+    "level": "hard"
+  }
+]

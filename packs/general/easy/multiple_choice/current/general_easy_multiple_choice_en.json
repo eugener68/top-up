@@ -1,0 +1,602 @@
+[
+  {
+    "question": "What is the capital of France?",
+    "options": [
+      "Paris",
+      "Rome",
+      "Berlin",
+      "Madrid"
+    ],
+    "correct_answer": "Paris",
+    "explanation": "Paris is the capital and most populous city of France.",
+    "level": "easy"
+  },
+  {
+    "question": "Which planet is known as the Red Planet?",
+    "options": [
+      "Venus",
+      "Mars",
+      "Jupiter",
+      "Mercury"
+    ],
+    "correct_answer": "Mars",
+    "explanation": "Mars appears red due to iron oxide on its surface.",
+    "level": "easy"
+  },
+  {
+    "question": "How many continents are there on Earth?",
+    "options": [
+      "5",
+      "6",
+      "7",
+      "8"
+    ],
+    "correct_answer": "7",
+    "explanation": "Earth has seven continents: Africa, Antarctica, Asia, Europe, North America, Oceania, South America.",
+    "level": "easy"
+  },
+  {
+    "question": "What gas do plants primarily absorb for photosynthesis?",
+    "options": [
+      "Oxygen",
+      "Nitrogen",
+      "Hydrogen",
+      "Carbon dioxide"
+    ],
+    "correct_answer": "Carbon dioxide",
+    "explanation": "Plants use CO2, water, and light to form glucose and oxygen.",
+    "level": "easy"
+  },
+  {
+    "question": "Which ocean is the largest?",
+    "options": [
+      "Pacific",
+      "Atlantic",
+      "Indian",
+      "Arctic"
+    ],
+    "correct_answer": "Pacific",
+    "explanation": "The Pacific Ocean covers more area than all land combined.",
+    "level": "easy"
+  },
+  {
+    "question": "What is H2O commonly known as?",
+    "options": [
+      "Hydrogen peroxide",
+      "Water",
+      "Salt",
+      "Carbon dioxide"
+    ],
+    "correct_answer": "Water",
+    "explanation": "H2O is the chemical formula for water.",
+    "level": "easy"
+  },
+  {
+    "question": "Which animal is known as the King of the Jungle?",
+    "options": [
+      "Tiger",
+      "Elephant",
+      "Lion",
+      "Gorilla"
+    ],
+    "correct_answer": "Lion",
+    "explanation": "The lion is traditionally nicknamed the 'king' due to its apex status.",
+    "level": "easy"
+  },
+  {
+    "question": "What is 5 + 7?",
+    "options": [
+      "10",
+      "13",
+      "11",
+      "12"
+    ],
+    "correct_answer": "12",
+    "explanation": "5 plus 7 equals 12.",
+    "level": "easy"
+  },
+  {
+    "question": "Which instrument has keys, pedals, and strings?",
+    "options": [
+      "Piano",
+      "Flute",
+      "Drum",
+      "Violin"
+    ],
+    "correct_answer": "Piano",
+    "explanation": "A piano strikes strings with hammers when keys are pressed.",
+    "level": "easy"
+  },
+  {
+    "question": "What do bees produce?",
+    "options": [
+      "Silk",
+      "Honey",
+      "Wax crayons",
+      "Flour"
+    ],
+    "correct_answer": "Honey",
+    "explanation": "Honey bees convert nectar into honey.",
+    "level": "easy"
+  },
+  {
+    "question": "Which metal is liquid at room temperature?",
+    "options": [
+      "Iron",
+      "Aluminum",
+      "Mercury",
+      "Copper"
+    ],
+    "correct_answer": "Mercury",
+    "explanation": "Mercury is the only common metal liquid at standard conditions.",
+    "level": "easy"
+  },
+  {
+    "question": "How many days are in a leap year?",
+    "options": [
+      "365",
+      "364",
+      "360",
+      "366"
+    ],
+    "correct_answer": "366",
+    "explanation": "Leap years add Feb 29 making 366 days.",
+    "level": "easy"
+  },
+  {
+    "question": "What is the largest land animal?",
+    "options": [
+      "African elephant",
+      "Giraffe",
+      "White rhino",
+      "Hippopotamus"
+    ],
+    "correct_answer": "African elephant",
+    "explanation": "The African bush elephant is the largest terrestrial animal.",
+    "level": "easy"
+  },
+  {
+    "question": "Which shape has three sides?",
+    "options": [
+      "Square",
+      "Triangle",
+      "Pentagon",
+      "Hexagon"
+    ],
+    "correct_answer": "Triangle",
+    "explanation": "A triangle has three straight sides and three angles.",
+    "level": "easy"
+  },
+  {
+    "question": "What is the boiling point of water at sea level (°C)?",
+    "options": [
+      "90",
+      "80",
+      "100",
+      "70"
+    ],
+    "correct_answer": "100",
+    "explanation": "Water boils at 100°C at 1 atm pressure.",
+    "level": "easy"
+  },
+  {
+    "question": "Which planet is closest to the Sun?",
+    "options": [
+      "Venus",
+      "Earth",
+      "Mars",
+      "Mercury"
+    ],
+    "correct_answer": "Mercury",
+    "explanation": "Mercury orbits closest to the Sun.",
+    "level": "easy"
+  },
+  {
+    "question": "How many letters are in the English alphabet?",
+    "options": [
+      "26",
+      "24",
+      "25",
+      "27"
+    ],
+    "correct_answer": "26",
+    "explanation": "There are 26 letters A-Z.",
+    "level": "easy"
+  },
+  {
+    "question": "Which color results from mixing red and white?",
+    "options": [
+      "Purple",
+      "Pink",
+      "Orange",
+      "Brown"
+    ],
+    "correct_answer": "Pink",
+    "explanation": "Tinting red with white yields pink.",
+    "level": "easy"
+  },
+  {
+    "question": "What part of the plant conducts photosynthesis?",
+    "options": [
+      "Roots",
+      "Stems",
+      "Leaves",
+      "Flower petals"
+    ],
+    "correct_answer": "Leaves",
+    "explanation": "Chloroplasts in leaves capture light energy.",
+    "level": "easy"
+  },
+  {
+    "question": "Which month has 28 days in non-leap years?",
+    "options": [
+      "June",
+      "April",
+      "September",
+      "February"
+    ],
+    "correct_answer": "February",
+    "explanation": "February has 28 days in common years.",
+    "level": "easy"
+  },
+  {
+    "question": "Which animal gives us wool?",
+    "options": [
+      "Sheep",
+      "Cow",
+      "Goat",
+      "Pig"
+    ],
+    "correct_answer": "Sheep",
+    "explanation": "Sheep fleece is processed into wool fibers.",
+    "level": "easy"
+  },
+  {
+    "question": "What is the largest planet in our solar system?",
+    "options": [
+      "Saturn",
+      "Jupiter",
+      "Earth",
+      "Neptune"
+    ],
+    "correct_answer": "Jupiter",
+    "explanation": "Jupiter is the most massive planet.",
+    "level": "easy"
+  },
+  {
+    "question": "What is the primary language spoken in Spain?",
+    "options": [
+      "French",
+      "German",
+      "Spanish",
+      "Italian"
+    ],
+    "correct_answer": "Spanish",
+    "explanation": "Castilian Spanish is Spain's primary language.",
+    "level": "easy"
+  },
+  {
+    "question": "How many wheels does a tricycle have?",
+    "options": [
+      "2",
+      "4",
+      "5",
+      "3"
+    ],
+    "correct_answer": "3",
+    "explanation": "Tri- indicates three wheels.",
+    "level": "easy"
+  },
+  {
+    "question": "Which animal is famous for changing its color?",
+    "options": [
+      "Chameleon",
+      "Dolphin",
+      "Zebra",
+      "Eagle"
+    ],
+    "correct_answer": "Chameleon",
+    "explanation": "Chameleons shift skin pigments for camouflage and signaling.",
+    "level": "easy"
+  },
+  {
+    "question": "What is the freezing point of water (°C)?",
+    "options": [
+      "-5",
+      "0",
+      "5",
+      "10"
+    ],
+    "correct_answer": "0",
+    "explanation": "Water freezes at 0°C at 1 atm.",
+    "level": "easy"
+  },
+  {
+    "question": "Which fruit keeps the doctor away if eaten daily (saying)?",
+    "options": [
+      "Banana",
+      "Orange",
+      "Apple",
+      "Pear"
+    ],
+    "correct_answer": "Apple",
+    "explanation": "Proverb: 'An apple a day keeps the doctor away.'",
+    "level": "easy"
+  },
+  {
+    "question": "Which direction does the Sun rise from?",
+    "options": [
+      "West",
+      "North",
+      "South",
+      "East"
+    ],
+    "correct_answer": "East",
+    "explanation": "Sunrise is observed in the east due to Earth's rotation.",
+    "level": "easy"
+  },
+  {
+    "question": "How many days are in a week?",
+    "options": [
+      "7",
+      "5",
+      "6",
+      "8"
+    ],
+    "correct_answer": "7",
+    "explanation": "Week structure uses seven days.",
+    "level": "easy"
+  },
+  {
+    "question": "What is the main gas in the air we breathe?",
+    "options": [
+      "Oxygen",
+      "Nitrogen",
+      "Carbon dioxide",
+      "Argon"
+    ],
+    "correct_answer": "Nitrogen",
+    "explanation": "Nitrogen is about 78% of Earth's atmosphere.",
+    "level": "easy"
+  },
+  {
+    "question": "Which bird is a symbol of peace?",
+    "options": [
+      "Eagle",
+      "Crow",
+      "Dove",
+      "Ostrich"
+    ],
+    "correct_answer": "Dove",
+    "explanation": "White doves commonly symbolize peace.",
+    "level": "easy"
+  },
+  {
+    "question": "What large mammal lives in the Arctic and is white?",
+    "options": [
+      "Brown bear",
+      "Moose",
+      "Walrus",
+      "Polar bear"
+    ],
+    "correct_answer": "Polar bear",
+    "explanation": "Polar bears have white fur for camouflage on ice.",
+    "level": "easy"
+  },
+  {
+    "question": "What is the smallest prime number?",
+    "options": [
+      "2",
+      "1",
+      "3",
+      "5"
+    ],
+    "correct_answer": "2",
+    "explanation": "2 is the first and only even prime.",
+    "level": "easy"
+  },
+  {
+    "question": "Which instrument has six strings (standard)?",
+    "options": [
+      "Violin",
+      "Guitar",
+      "Cello",
+      "Harp"
+    ],
+    "correct_answer": "Guitar",
+    "explanation": "A standard acoustic guitar has six strings.",
+    "level": "easy"
+  },
+  {
+    "question": "How many legs does a spider have?",
+    "options": [
+      "6",
+      "10",
+      "8",
+      "12"
+    ],
+    "correct_answer": "8",
+    "explanation": "Spiders are arachnids with eight legs.",
+    "level": "easy"
+  },
+  {
+    "question": "Which holiday is on December 25th (most countries)?",
+    "options": [
+      "Easter",
+      "New Year",
+      "Halloween",
+      "Christmas"
+    ],
+    "correct_answer": "Christmas",
+    "explanation": "Christmas is widely celebrated on December 25th.",
+    "level": "easy"
+  },
+  {
+    "question": "What do cows drink?",
+    "options": [
+      "Water",
+      "Milk",
+      "Juice",
+      "Tea"
+    ],
+    "correct_answer": "Water",
+    "explanation": "Adult cows drink water; they produce milk.",
+    "level": "easy"
+  },
+  {
+    "question": "What number comes after 19?",
+    "options": [
+      "21",
+      "20",
+      "18",
+      "22"
+    ],
+    "correct_answer": "20",
+    "explanation": "Counting sequence: 19, 20, 21...",
+    "level": "easy"
+  },
+  {
+    "question": "Which organ pumps blood?",
+    "options": [
+      "Liver",
+      "Lungs",
+      "Heart",
+      "Stomach"
+    ],
+    "correct_answer": "Heart",
+    "explanation": "The heart circulates blood through vessels.",
+    "level": "easy"
+  },
+  {
+    "question": "Which planet do we live on?",
+    "options": [
+      "Mars",
+      "Venus",
+      "Saturn",
+      "Earth"
+    ],
+    "correct_answer": "Earth",
+    "explanation": "Humans inhabit planet Earth.",
+    "level": "easy"
+  },
+  {
+    "question": "What color are bananas when ripe?",
+    "options": [
+      "Yellow",
+      "Green",
+      "Brown",
+      "Purple"
+    ],
+    "correct_answer": "Yellow",
+    "explanation": "Ripe bananas turn bright yellow.",
+    "level": "easy"
+  },
+  {
+    "question": "Which animal barks?",
+    "options": [
+      "Cat",
+      "Dog",
+      "Cow",
+      "Horse"
+    ],
+    "correct_answer": "Dog",
+    "explanation": "Dogs commonly bark as vocalization.",
+    "level": "easy"
+  },
+  {
+    "question": "What shape is a wheel?",
+    "options": [
+      "Square",
+      "Triangle",
+      "Circle",
+      "Rectangle"
+    ],
+    "correct_answer": "Circle",
+    "explanation": "Wheels are circular for smooth rotation.",
+    "level": "easy"
+  },
+  {
+    "question": "Which animal lives in a hive and can sting?",
+    "options": [
+      "Butterfly",
+      "Ant",
+      "Fly",
+      "Bee"
+    ],
+    "correct_answer": "Bee",
+    "explanation": "Bees build hives and can sting when threatened.",
+    "level": "easy"
+  },
+  {
+    "question": "How many sides does a square have?",
+    "options": [
+      "4",
+      "3",
+      "5",
+      "6"
+    ],
+    "correct_answer": "4",
+    "explanation": "A square has four equal sides.",
+    "level": "easy"
+  },
+  {
+    "question": "Which sense do we use to smell?",
+    "options": [
+      "Eyes",
+      "Nose",
+      "Ears",
+      "Skin"
+    ],
+    "correct_answer": "Nose",
+    "explanation": "Olfactory receptors in the nose detect smells.",
+    "level": "easy"
+  },
+  {
+    "question": "Which animal produces milk for its young?",
+    "options": [
+      "Chicken",
+      "Snake",
+      "Cow",
+      "Frog"
+    ],
+    "correct_answer": "Cow",
+    "explanation": "Cows are mammals; mammals produce milk.",
+    "level": "easy"
+  },
+  {
+    "question": "Which season comes after spring (N. Hemisphere)?",
+    "options": [
+      "Autumn",
+      "Winter",
+      "Spring again",
+      "Summer"
+    ],
+    "correct_answer": "Summer",
+    "explanation": "Seasonal order: spring → summer → autumn → winter.",
+    "level": "easy"
+  },
+  {
+    "question": "What natural satellite orbits Earth?",
+    "options": [
+      "The Moon",
+      "Mars",
+      "Venus",
+      "Sun"
+    ],
+    "correct_answer": "The Moon",
+    "explanation": "Earth's only natural satellite is the Moon.",
+    "level": "easy"
+  },
+  {
+    "question": "What is the plural of 'mouse'?",
+    "options": [
+      "Mouses",
+      "Mice",
+      "Mouse",
+      "Mices"
+    ],
+    "correct_answer": "Mice",
+    "explanation": "Irregular plural: mouse → mice.",
+    "level": "easy"
+  }
+]

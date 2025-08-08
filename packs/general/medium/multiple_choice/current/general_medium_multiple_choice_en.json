@@ -1,0 +1,602 @@
+[
+  {
+    "question": "Which element has the chemical symbol 'Na'?",
+    "options": [
+      "Sodium",
+      "Neon",
+      "Nickel",
+      "Nitrogen"
+    ],
+    "correct_answer": "Sodium",
+    "explanation": "'Na' comes from the Latin 'Natrium' for sodium.",
+    "level": "medium"
+  },
+  {
+    "question": "In which year did the Titanic sink?",
+    "options": [
+      "1910",
+      "1912",
+      "1914",
+      "1920"
+    ],
+    "correct_answer": "1912",
+    "explanation": "RMS Titanic struck an iceberg and sank in April 1912.",
+    "level": "medium"
+  },
+  {
+    "question": "Who painted the ceiling of the Sistine Chapel?",
+    "options": [
+      "Leonardo da Vinci",
+      "Raphael",
+      "Michelangelo",
+      "Donatello"
+    ],
+    "correct_answer": "Michelangelo",
+    "explanation": "Michelangelo painted the Sistine Chapel ceiling (1508–1512).",
+    "level": "medium"
+  },
+  {
+    "question": "Which planet has the largest known volcano in the Solar System?",
+    "options": [
+      "Earth",
+      "Venus",
+      "Jupiter",
+      "Mars"
+    ],
+    "correct_answer": "Mars",
+    "explanation": "Olympus Mons on Mars is the largest known volcano.",
+    "level": "medium"
+  },
+  {
+    "question": "What is the hardest natural substance on Earth?",
+    "options": [
+      "Diamond",
+      "Quartz",
+      "Corundum",
+      "Topaz"
+    ],
+    "correct_answer": "Diamond",
+    "explanation": "Diamond's carbon lattice makes it the hardest natural material.",
+    "level": "medium"
+  },
+  {
+    "question": "Which gas is most abundant in Earth's atmosphere?",
+    "options": [
+      "Oxygen",
+      "Nitrogen",
+      "Carbon dioxide",
+      "Argon"
+    ],
+    "correct_answer": "Nitrogen",
+    "explanation": "Nitrogen makes up about 78% of Earth's atmosphere.",
+    "level": "medium"
+  },
+  {
+    "question": "Who wrote the play 'Romeo and Juliet'?",
+    "options": [
+      "Christopher Marlowe",
+      "Ben Jonson",
+      "William Shakespeare",
+      "Thomas Kyd"
+    ],
+    "correct_answer": "William Shakespeare",
+    "explanation": "Shakespeare authored 'Romeo and Juliet' in the late 16th century.",
+    "level": "medium"
+  },
+  {
+    "question": "Which continent has the largest desert (by area including non-sandy regions)?",
+    "options": [
+      "Africa",
+      "Australia",
+      "Asia",
+      "Antarctica"
+    ],
+    "correct_answer": "Antarctica",
+    "explanation": "Antarctica is a polar desert, the largest desert by area.",
+    "level": "medium"
+  },
+  {
+    "question": "What is the basic unit of heredity?",
+    "options": [
+      "Gene",
+      "Cell",
+      "Chromosome",
+      "Nucleotide"
+    ],
+    "correct_answer": "Gene",
+    "explanation": "Genes are DNA segments that encode functional products.",
+    "level": "medium"
+  },
+  {
+    "question": "Which instrument measures atmospheric pressure?",
+    "options": [
+      "Thermometer",
+      "Barometer",
+      "Hygrometer",
+      "Anemometer"
+    ],
+    "correct_answer": "Barometer",
+    "explanation": "A barometer measures atmospheric pressure.",
+    "level": "medium"
+  },
+  {
+    "question": "Which blood cells help in clotting?",
+    "options": [
+      "Red blood cells",
+      "White blood cells",
+      "Platelets",
+      "Plasma cells"
+    ],
+    "correct_answer": "Platelets",
+    "explanation": "Platelets (thrombocytes) aggregate to form clots.",
+    "level": "medium"
+  },
+  {
+    "question": "Which scientist proposed the three laws of motion?",
+    "options": [
+      "Galileo Galilei",
+      "Johannes Kepler",
+      "Albert Einstein",
+      "Isaac Newton"
+    ],
+    "correct_answer": "Isaac Newton",
+    "explanation": "Newton published his laws in 'Principia' (1687).",
+    "level": "medium"
+  },
+  {
+    "question": "What part of the cell contains genetic material in eukaryotes?",
+    "options": [
+      "Nucleus",
+      "Ribosome",
+      "Mitochondrion",
+      "Golgi apparatus"
+    ],
+    "correct_answer": "Nucleus",
+    "explanation": "The nucleus houses most of a eukaryotic cell's DNA.",
+    "level": "medium"
+  },
+  {
+    "question": "Which ocean current helps keep Western Europe mild?",
+    "options": [
+      "California Current",
+      "Gulf Stream",
+      "Humboldt Current",
+      "Canary Current"
+    ],
+    "correct_answer": "Gulf Stream",
+    "explanation": "The Gulf Stream transports warm water toward Europe.",
+    "level": "medium"
+  },
+  {
+    "question": "Who developed the theory of general relativity?",
+    "options": [
+      "Niels Bohr",
+      "Max Planck",
+      "Albert Einstein",
+      "Erwin Schrödinger"
+    ],
+    "correct_answer": "Albert Einstein",
+    "explanation": "Einstein published general relativity in 1915.",
+    "level": "medium"
+  },
+  {
+    "question": "Which vitamin is produced when human skin is exposed to sunlight?",
+    "options": [
+      "Vitamin A",
+      "Vitamin C",
+      "Vitamin K",
+      "Vitamin D"
+    ],
+    "correct_answer": "Vitamin D",
+    "explanation": "UV exposure triggers Vitamin D synthesis in skin.",
+    "level": "medium"
+  },
+  {
+    "question": "What is the square root of 144?",
+    "options": [
+      "12",
+      "10",
+      "11",
+      "14"
+    ],
+    "correct_answer": "12",
+    "explanation": "12 × 12 = 144.",
+    "level": "medium"
+  },
+  {
+    "question": "Which civilization built Machu Picchu?",
+    "options": [
+      "Aztec",
+      "Inca",
+      "Maya",
+      "Olmec"
+    ],
+    "correct_answer": "Inca",
+    "explanation": "Machu Picchu was constructed by the Inca in the 15th century.",
+    "level": "medium"
+  },
+  {
+    "question": "Which gas is the primary carbon source plants process during photosynthesis?",
+    "options": [
+      "Oxygen",
+      "Nitrogen",
+      "Carbon dioxide",
+      "Methane"
+    ],
+    "correct_answer": "Carbon dioxide",
+    "explanation": "Plants process (fix) carbon from atmospheric CO2 in the Calvin cycle.",
+    "level": "medium"
+  },
+  {
+    "question": "Which layer of Earth lies directly below the crust?",
+    "options": [
+      "Inner core",
+      "Outer core",
+      "Asthenosphere",
+      "Mantle"
+    ],
+    "correct_answer": "Mantle",
+    "explanation": "The solid upper mantle lies beneath Earth's crust.",
+    "level": "medium"
+  },
+  {
+    "question": "Which organ produces insulin?",
+    "options": [
+      "Pancreas",
+      "Liver",
+      "Spleen",
+      "Kidney"
+    ],
+    "correct_answer": "Pancreas",
+    "explanation": "Beta cells in the pancreas secrete insulin.",
+    "level": "medium"
+  },
+  {
+    "question": "What is the chemical formula for table salt?",
+    "options": [
+      "KCl",
+      "NaCl",
+      "Na2CO3",
+      "CaCl2"
+    ],
+    "correct_answer": "NaCl",
+    "explanation": "Table salt is sodium chloride (NaCl).",
+    "level": "medium"
+  },
+  {
+    "question": "Which empire was ruled by Genghis Khan?",
+    "options": [
+      "Ottoman Empire",
+      "Persian Empire",
+      "Mongol Empire",
+      "Roman Empire"
+    ],
+    "correct_answer": "Mongol Empire",
+    "explanation": "Genghis Khan founded and ruled the Mongol Empire.",
+    "level": "medium"
+  },
+  {
+    "question": "What is the process of liquid water turning into vapor called?",
+    "options": [
+      "Condensation",
+      "Sublimation",
+      "Deposition",
+      "Evaporation"
+    ],
+    "correct_answer": "Evaporation",
+    "explanation": "Evaporation is the phase change from liquid to gas below boiling.",
+    "level": "medium"
+  },
+  {
+    "question": "Which blood type is known as the universal donor (red cells)?",
+    "options": [
+      "O negative",
+      "AB positive",
+      "A positive",
+      "B negative"
+    ],
+    "correct_answer": "O negative",
+    "explanation": "O negative red cells can be transfused to most recipients.",
+    "level": "medium"
+  },
+  {
+    "question": "What term describes animals active during the night?",
+    "options": [
+      "Diurnal",
+      "Nocturnal",
+      "Crepuscular",
+      "Cathemeral"
+    ],
+    "correct_answer": "Nocturnal",
+    "explanation": "Nocturnal animals are active at night.",
+    "level": "medium"
+  },
+  {
+    "question": "Which instrument is used to see distant objects in space?",
+    "options": [
+      "Microscope",
+      "Periscope",
+      "Telescope",
+      "Spectroscope"
+    ],
+    "correct_answer": "Telescope",
+    "explanation": "Telescopes collect and magnify light from distant objects.",
+    "level": "medium"
+  },
+  {
+    "question": "What percentage is represented by the fraction 3/4?",
+    "options": [
+      "50%",
+      "60%",
+      "70%",
+      "75%"
+    ],
+    "correct_answer": "75%",
+    "explanation": "3 divided by 4 equals 0.75 or 75%.",
+    "level": "medium"
+  },
+  {
+    "question": "Which gas do humans need to breathe for cellular respiration?",
+    "options": [
+      "Oxygen",
+      "Nitrogen",
+      "Helium",
+      "Carbon monoxide"
+    ],
+    "correct_answer": "Oxygen",
+    "explanation": "Oxygen is the final electron acceptor in cellular respiration.",
+    "level": "medium"
+  },
+  {
+    "question": "Who proposed the law of universal gravitation?",
+    "options": [
+      "Galileo Galilei",
+      "Isaac Newton",
+      "James Clerk Maxwell",
+      "Michael Faraday"
+    ],
+    "correct_answer": "Isaac Newton",
+    "explanation": "Newton's law of gravitation describes attraction between masses.",
+    "level": "medium"
+  },
+  {
+    "question": "Which continent is the Sahara Desert located on?",
+    "options": [
+      "Asia",
+      "Australia",
+      "Africa",
+      "North America"
+    ],
+    "correct_answer": "Africa",
+    "explanation": "The Sahara spans North Africa.",
+    "level": "medium"
+  },
+  {
+    "question": "What is the capital city of Australia?",
+    "options": [
+      "Sydney",
+      "Melbourne",
+      "Perth",
+      "Canberra"
+    ],
+    "correct_answer": "Canberra",
+    "explanation": "Canberra is Australia's planned capital city.",
+    "level": "medium"
+  },
+  {
+    "question": "Which natural resource is primarily used to make paper?",
+    "options": [
+      "Wood pulp",
+      "Clay",
+      "Sand",
+      "Cotton"
+    ],
+    "correct_answer": "Wood pulp",
+    "explanation": "Paper is commonly produced from processed wood pulp fibers.",
+    "level": "medium"
+  },
+  {
+    "question": "What is the SI unit of force?",
+    "options": [
+      "Watt",
+      "Newton",
+      "Pascal",
+      "Joule"
+    ],
+    "correct_answer": "Newton",
+    "explanation": "Force in the SI system is measured in newtons (N).",
+    "level": "medium"
+  },
+  {
+    "question": "Which structure connects muscle to bone?",
+    "options": [
+      "Ligament",
+      "Cartilage",
+      "Tendon",
+      "Fascia"
+    ],
+    "correct_answer": "Tendon",
+    "explanation": "Tendons attach muscle to bone; ligaments connect bones.",
+    "level": "medium"
+  },
+  {
+    "question": "Which planet is known for its prominent ring system?",
+    "options": [
+      "Uranus",
+      "Jupiter",
+      "Neptune",
+      "Saturn"
+    ],
+    "correct_answer": "Saturn",
+    "explanation": "Saturn has the most visible and extensive rings.",
+    "level": "medium"
+  },
+  {
+    "question": "What is the main gas found in the Sun?",
+    "options": [
+      "Hydrogen",
+      "Helium",
+      "Oxygen",
+      "Carbon"
+    ],
+    "correct_answer": "Hydrogen",
+    "explanation": "The Sun is composed primarily of hydrogen undergoing fusion.",
+    "level": "medium"
+  },
+  {
+    "question": "Which part of the plant conducts photosynthesis mainly?",
+    "options": [
+      "Roots",
+      "Leaves",
+      "Stem",
+      "Flowers"
+    ],
+    "correct_answer": "Leaves",
+    "explanation": "Leaves contain chloroplasts for photosynthesis.",
+    "level": "medium"
+  },
+  {
+    "question": "What is the capital of Sweden?",
+    "options": [
+      "Oslo",
+      "Copenhagen",
+      "Stockholm",
+      "Helsinki"
+    ],
+    "correct_answer": "Stockholm",
+    "explanation": "Stockholm is the capital and largest city of Sweden.",
+    "level": "medium"
+  },
+  {
+    "question": "Which elemental metal remains liquid at standard room temperature due to its low melting point (process)?",
+    "options": [
+      "Gallium",
+      "Cesium",
+      "Bromine",
+      "Mercury"
+    ],
+    "correct_answer": "Mercury",
+    "explanation": "Mercury's melting point (−38.83°C) keeps it liquid under normal conditions.",
+    "level": "medium"
+  },
+  {
+    "question": "Which country gifted the Statue of Liberty to the United States?",
+    "options": [
+      "France",
+      "United Kingdom",
+      "Spain",
+      "Germany"
+    ],
+    "correct_answer": "France",
+    "explanation": "France gifted the Statue of Liberty in 1886.",
+    "level": "medium"
+  },
+  {
+    "question": "Which organelle is known as the powerhouse of the cell?",
+    "options": [
+      "Ribosome",
+      "Mitochondrion",
+      "Lysosome",
+      "Chloroplast"
+    ],
+    "correct_answer": "Mitochondrion",
+    "explanation": "Mitochondria generate ATP through respiration.",
+    "level": "medium"
+  },
+  {
+    "question": "What is the process by which plants lose water vapor through leaves?",
+    "options": [
+      "Respiration",
+      "Fermentation",
+      "Transpiration",
+      "Distillation"
+    ],
+    "correct_answer": "Transpiration",
+    "explanation": "Transpiration is water vapor loss via stomata.",
+    "level": "medium"
+  },
+  {
+    "question": "Which scientist is known for the laws of planetary motion?",
+    "options": [
+      "Nicolaus Copernicus",
+      "Tycho Brahe",
+      "Ptolemy",
+      "Johannes Kepler"
+    ],
+    "correct_answer": "Johannes Kepler",
+    "explanation": "Kepler described elliptical planetary orbits.",
+    "level": "medium"
+  },
+  {
+    "question": "Which internal organ performs hundreds of metabolic processes including detoxification and bile production?",
+    "options": [
+      "Liver",
+      "Pancreas",
+      "Spleen",
+      "Kidneys"
+    ],
+    "correct_answer": "Liver",
+    "explanation": "The liver conducts diverse metabolic processes: detoxification, protein synthesis, bile secretion.",
+    "level": "medium"
+  },
+  {
+    "question": "Which river runs through Egypt?",
+    "options": [
+      "Amazon",
+      "Nile",
+      "Danube",
+      "Yangtze"
+    ],
+    "correct_answer": "Nile",
+    "explanation": "The Nile River flows north through Egypt to the Mediterranean.",
+    "level": "medium"
+  },
+  {
+    "question": "Which continent is the country of Brazil located on?",
+    "options": [
+      "Africa",
+      "Europe",
+      "South America",
+      "Asia"
+    ],
+    "correct_answer": "South America",
+    "explanation": "Brazil occupies a large portion of eastern South America.",
+    "level": "medium"
+  },
+  {
+    "question": "Which branch of mathematics deals with shapes and sizes?",
+    "options": [
+      "Algebra",
+      "Calculus",
+      "Statistics",
+      "Geometry"
+    ],
+    "correct_answer": "Geometry",
+    "explanation": "Geometry studies properties of shapes, sizes, and spaces.",
+    "level": "medium"
+  },
+  {
+    "question": "What is the primary language spoken in Brazil?",
+    "options": [
+      "Portuguese",
+      "Spanish",
+      "French",
+      "English"
+    ],
+    "correct_answer": "Portuguese",
+    "explanation": "Portuguese is Brazil's official and primary language.",
+    "level": "medium"
+  },
+  {
+    "question": "What is the freezing point of water in Fahrenheit?",
+    "options": [
+      "0°F",
+      "32°F",
+      "100°F",
+      "212°F"
+    ],
+    "correct_answer": "32°F",
+    "explanation": "Water freezes at 32°F (0°C).",
+    "level": "medium"
+  }
+]

@@ -1,0 +1,602 @@
+[
+  {
+    "question": "Which constant denotes the ratio of a circle's circumference to its diameter?",
+    "options": [
+      "π",
+      "e",
+      "φ",
+      "γ"
+    ],
+    "correct_answer": "π",
+    "explanation": "Pi ~3.14159 fundamental circle ratio. Source: Math Handbook",
+    "level": "expert"
+  },
+  {
+    "question": "Which scientist formulated the principle of least action in classical mechanics?",
+    "options": [
+      "Isaac Newton",
+      "Pierre de Maupertuis",
+      "Joseph Lagrange",
+      "Leonhard Euler"
+    ],
+    "correct_answer": "Pierre de Maupertuis",
+    "explanation": "Maupertuis articulated early action principle. Source: History of Physics",
+    "level": "expert"
+  },
+  {
+    "question": "Which reaction series describes mineral crystallization sequence in cooling magma?",
+    "options": [
+      "Hess cycle",
+      "Born-Haber cycle",
+      "Bowen's reaction series",
+      "Krebs cycle"
+    ],
+    "correct_answer": "Bowen's reaction series",
+    "explanation": "Bowen mapped discontinuous & continuous branches. Source: Petrology Text",
+    "level": "expert"
+  },
+  {
+    "question": "Which law quantifies diffusion flux proportional to concentration gradient?",
+    "options": [
+      "Hooke's law",
+      "Faraday's law",
+      "Snell's law",
+      "Fick's first law"
+    ],
+    "correct_answer": "Fick's first law",
+    "explanation": "J = -D (dC/dx). Source: Physical Chemistry",
+    "level": "expert"
+  },
+  {
+    "question": "Which 1956 architecture paper introduced stored-program CPU design name?",
+    "options": [
+      "Von Neumann architecture",
+      "Harvard architecture",
+      "RISC architecture",
+      "Superscalar architecture"
+    ],
+    "correct_answer": "Von Neumann architecture",
+    "explanation": "Stored program concept widely adopted. Source: Computer Architecture Text",
+    "level": "expert"
+  },
+  {
+    "question": "Which philosopher authored 'Critique of Pure Reason'?",
+    "options": [
+      "David Hume",
+      "Immanuel Kant",
+      "G.W.F. Hegel",
+      "René Descartes"
+    ],
+    "correct_answer": "Immanuel Kant",
+    "explanation": "First published 1781. Source: Philosophy Reference",
+    "level": "expert"
+  },
+  {
+    "question": "Which RNA type carries amino acids to ribosomes?",
+    "options": [
+      "mRNA",
+      "rRNA",
+      "tRNA",
+      "snRNA"
+    ],
+    "correct_answer": "tRNA",
+    "explanation": "Transfer RNA delivers amino acids. Source: Molecular Biology",
+    "level": "expert"
+  },
+  {
+    "question": "Which physicist introduced imaginary time in cosmology popular works?",
+    "options": [
+      "Roger Penrose",
+      "Edwin Hubble",
+      "Subrahmanyan Chandrasekhar",
+      "Stephen Hawking"
+    ],
+    "correct_answer": "Stephen Hawking",
+    "explanation": "Hawking used imaginary time in quantum cosmology. Source: A Brief History of Time",
+    "level": "expert"
+  },
+  {
+    "question": "Which statistical distribution models number of events in fixed interval given mean rate λ?",
+    "options": [
+      "Poisson distribution",
+      "Binomial distribution",
+      "Normal distribution",
+      "Exponential distribution"
+    ],
+    "correct_answer": "Poisson distribution",
+    "explanation": "Counts events with independent occurrence. Source: Statistics Text",
+    "level": "expert"
+  },
+  {
+    "question": "Which paleogeographic supercontinent preceded Pangaea?",
+    "options": [
+      "Gondwana",
+      "Rodinia",
+      "Laurasia",
+      "Columbia"
+    ],
+    "correct_answer": "Rodinia",
+    "explanation": "Rodinia assembled ~1.0 Ga. Source: Geological Society",
+    "level": "expert"
+  },
+  {
+    "question": "Which theorem states no rank-ordered voting system can satisfy all fairness criteria simultaneously?",
+    "options": [
+      "Godel's completeness theorem",
+      "Bayes' theorem",
+      "Arrow's impossibility theorem",
+      "Nash equilibrium"
+    ],
+    "correct_answer": "Arrow's impossibility theorem",
+    "explanation": "Arrow proved impossibility with 5 criteria. Source: Social Choice Theory",
+    "level": "expert"
+  },
+  {
+    "question": "Which force carrier particle is hypothesized for gravity in quantum theories?",
+    "options": [
+      "Gluon",
+      "Photon",
+      "W boson",
+      "Graviton"
+    ],
+    "correct_answer": "Graviton",
+    "explanation": "Graviton remains hypothetical spin-2 boson. Source: Quantum Gravity Review",
+    "level": "expert"
+  },
+  {
+    "question": "Which protocol secures web traffic via asymmetric and symmetric cryptography?",
+    "options": [
+      "TLS",
+      "FTP",
+      "SMTP",
+      "IMAP"
+    ],
+    "correct_answer": "TLS",
+    "explanation": "Transport Layer Security hybrid encryption. Source: IETF RFC",
+    "level": "expert"
+  },
+  {
+    "question": "Which vitamin acts as a coenzyme in carboxylation reactions (biotin number)?",
+    "options": [
+      "Vitamin B2",
+      "Vitamin B7",
+      "Vitamin B9",
+      "Vitamin B6"
+    ],
+    "correct_answer": "Vitamin B7",
+    "explanation": "Biotin (B7) cofactor for carboxylases. Source: Nutrition Text",
+    "level": "expert"
+  },
+  {
+    "question": "Which mathematician pioneered set theory introducing aleph numbers?",
+    "options": [
+      "David Hilbert",
+      "Henri Lebesgue",
+      "Georg Cantor",
+      "Richard Dedekind"
+    ],
+    "correct_answer": "Georg Cantor",
+    "explanation": "Cantor developed transfinite cardinalities. Source: Set Theory Text",
+    "level": "expert"
+  },
+  {
+    "question": "Which decay mode emits a positron?",
+    "options": [
+      "Alpha",
+      "Beta minus",
+      "Gamma",
+      "Beta plus"
+    ],
+    "correct_answer": "Beta plus",
+    "explanation": "β+ emission converts proton to neutron. Source: Nuclear Physics",
+    "level": "expert"
+  },
+  {
+    "question": "Which process creates ATP using proton motive force in mitochondria?",
+    "options": [
+      "Chemiosmosis",
+      "Glycolysis",
+      "Fermentation",
+      "Substrate-level phosphorylation"
+    ],
+    "correct_answer": "Chemiosmosis",
+    "explanation": "Proton gradient drives ATP synthase. Source: Biochemistry",
+    "level": "expert"
+  },
+  {
+    "question": "Which 1977 spacecraft carried the Golden Record?",
+    "options": [
+      "Pioneer 10",
+      "Voyager 1",
+      "Voyager 2",
+      "Cassini"
+    ],
+    "correct_answer": "Voyager 1",
+    "explanation": "Voyager 1 launched 1977 with record. Source: NASA",
+    "level": "expert"
+  },
+  {
+    "question": "Which algorithm finds shortest paths in weighted graphs with nonnegative edges?",
+    "options": [
+      "Prim's algorithm",
+      "Kruskal's algorithm",
+      "Dijkstra's algorithm",
+      "Ford-Fulkerson algorithm"
+    ],
+    "correct_answer": "Dijkstra's algorithm",
+    "explanation": "Greedy approach using priority queue. Source: Algorithms Text",
+    "level": "expert"
+  },
+  {
+    "question": "Which economist proposed the concept of 'creative destruction'?",
+    "options": [
+      "John Keynes",
+      "Milton Friedman",
+      "Adam Smith",
+      "Joseph Schumpeter"
+    ],
+    "correct_answer": "Joseph Schumpeter",
+    "explanation": "Schumpeter described innovation dynamics. Source: Economic Development Text",
+    "level": "expert"
+  },
+  {
+    "question": "Which energy source initiates the light reactions of photosynthesis?",
+    "options": [
+      "Photons",
+      "Glucose",
+      "ATP",
+      "NADH"
+    ],
+    "correct_answer": "Photons",
+    "explanation": "Photon absorption excites electrons. Source: Plant Biology",
+    "level": "expert"
+  },
+  {
+    "question": "Which immunoglobulin class is first produced in primary immune response?",
+    "options": [
+      "IgG",
+      "IgM",
+      "IgA",
+      "IgE"
+    ],
+    "correct_answer": "IgM",
+    "explanation": "IgM pentamers initial responders. Source: Immunology",
+    "level": "expert"
+  },
+  {
+    "question": "Which 1935 experiment demonstrated wavefunction collapse over distance (author surnames)?",
+    "options": [
+      "Michelson-Morley",
+      "Millikan-Oil",
+      "Einstein-Podolsky-Rosen",
+      "Danish Bohr Experiment"
+    ],
+    "correct_answer": "Einstein-Podolsky-Rosen",
+    "explanation": "EPR paradox challenged completeness. Source: Physical Review",
+    "level": "expert"
+  },
+  {
+    "question": "Which plate boundary type creates new oceanic crust?",
+    "options": [
+      "Convergent",
+      "Transform",
+      "Subduction",
+      "Divergent"
+    ],
+    "correct_answer": "Divergent",
+    "explanation": "Mid-ocean ridges at divergent boundaries. Source: Geology Text",
+    "level": "expert"
+  },
+  {
+    "question": "Which cryptographic hash function belongs to SHA-2 family with 256-bit output?",
+    "options": [
+      "SHA-256",
+      "MD5",
+      "SHA-1",
+      "RIPEMD-160"
+    ],
+    "correct_answer": "SHA-256",
+    "explanation": "SHA-256 widely used secure hashing. Source: NIST",
+    "level": "expert"
+  },
+  {
+    "question": "Which atmospheric phenomenon results from constructive/destructive light interference in droplets?",
+    "options": [
+      "Mirage",
+      "Rainbow",
+      "Halo",
+      "Aurora"
+    ],
+    "correct_answer": "Rainbow",
+    "explanation": "Dispersion & internal reflection create spectrum. Source: Optics Text",
+    "level": "expert"
+  },
+  {
+    "question": "Which economic law states 'bad money drives out good'?",
+    "options": [
+      "Say's law",
+      "Law of demand",
+      "Gresham's law",
+      "Law of supply"
+    ],
+    "correct_answer": "Gresham's law",
+    "explanation": "Overvalued currency displaces undervalued. Source: Monetary Economics",
+    "level": "expert"
+  },
+  {
+    "question": "Which enzyme class catalyzes oxidation-reduction reactions?",
+    "options": [
+      "Hydrolases",
+      "Isomerases",
+      "Ligases",
+      "Oxidoreductases"
+    ],
+    "correct_answer": "Oxidoreductases",
+    "explanation": "Transfer electrons between molecules. Source: Enzymology Text",
+    "level": "expert"
+  },
+  {
+    "question": "Which orbital shape corresponds to angular momentum quantum number l=2?",
+    "options": [
+      "d orbital",
+      "p orbital",
+      "s orbital",
+      "f orbital"
+    ],
+    "correct_answer": "d orbital",
+    "explanation": "l=2 designates d subshell. Source: Quantum Chemistry",
+    "level": "expert"
+  },
+  {
+    "question": "Which historical period followed the Paleolithic?",
+    "options": [
+      "Mesolithic",
+      "Neolithic",
+      "Bronze Age",
+      "Iron Age"
+    ],
+    "correct_answer": "Neolithic",
+    "explanation": "Neolithic marked agriculture adoption. Source: Archaeology Text",
+    "level": "expert"
+  },
+  {
+    "question": "Which compiler optimization eliminates unused code paths?",
+    "options": [
+      "Loop unrolling",
+      "Inlining",
+      "Dead code elimination",
+      "Constant folding"
+    ],
+    "correct_answer": "Dead code elimination",
+    "explanation": "Removes unreachable instructions. Source: Compiler Design",
+    "level": "expert"
+  },
+  {
+    "question": "Which law defines electrostatic force inverse-square dependence?",
+    "options": [
+      "Gauss's law",
+      "Ohm's law",
+      "Ampère's law",
+      "Coulomb's law"
+    ],
+    "correct_answer": "Coulomb's law",
+    "explanation": "F = k q1 q2 / r^2. Source: Electromagnetism Text",
+    "level": "expert"
+  },
+  {
+    "question": "Which numerical method approximates integrals via random sampling?",
+    "options": [
+      "Monte Carlo integration",
+      "Simpson's rule",
+      "Trapezoidal rule",
+      "Newton-Cotes"
+    ],
+    "correct_answer": "Monte Carlo integration",
+    "explanation": "Random sampling for high-dimensional integrals. Source: Numerical Analysis",
+    "level": "expert"
+  },
+  {
+    "question": "Which disease did Edward Jenner's 1796 inoculation target?",
+    "options": [
+      "Polio",
+      "Smallpox",
+      "Measles",
+      "Cholera"
+    ],
+    "correct_answer": "Smallpox",
+    "explanation": "Cowpox inoculation conferred immunity. Source: Medical History",
+    "level": "expert"
+  },
+  {
+    "question": "Which 1967 transplant pioneered modern organ transplantation (organ)?",
+    "options": [
+      "Kidney",
+      "Liver",
+      "Heart",
+      "Lung"
+    ],
+    "correct_answer": "Heart",
+    "explanation": "First human heart transplant by Barnard. Source: Surgical History",
+    "level": "expert"
+  },
+  {
+    "question": "Which spectroscopy technique measures nuclear spin transitions in magnetic fields?",
+    "options": [
+      "IR spectroscopy",
+      "UV-Vis spectroscopy",
+      "Raman spectroscopy",
+      "NMR spectroscopy"
+    ],
+    "correct_answer": "NMR spectroscopy",
+    "explanation": "Nuclear magnetic resonance detects spin flips. Source: Analytical Chemistry",
+    "level": "expert"
+  },
+  {
+    "question": "Which protocol replaced Telnet for secure remote login?",
+    "options": [
+      "SSH",
+      "FTP",
+      "SCP",
+      "POP3"
+    ],
+    "correct_answer": "SSH",
+    "explanation": "Secure Shell encrypts sessions. Source: IETF RFC",
+    "level": "expert"
+  },
+  {
+    "question": "Which immunological technique detects specific proteins using antibodies and blotting?",
+    "options": [
+      "Southern blot",
+      "Western blot",
+      "Northern blot",
+      "ELISA"
+    ],
+    "correct_answer": "Western blot",
+    "explanation": "Protein separation + antibody detection. Source: Molecular Biology",
+    "level": "expert"
+  },
+  {
+    "question": "Which geological principle states sedimentary layers are deposited horizontally?",
+    "options": [
+      "Superposition",
+      "Cross-cutting",
+      "Original horizontality",
+      "Lateral continuity"
+    ],
+    "correct_answer": "Original horizontality",
+    "explanation": "Strata initially laid horizontal. Source: Stratigraphy Text",
+    "level": "expert"
+  },
+  {
+    "question": "Which machine learning technique reduces dimensionality preserving variance?",
+    "options": [
+      "k-NN",
+      "SVM",
+      "Naive Bayes",
+      "PCA"
+    ],
+    "correct_answer": "PCA",
+    "explanation": "Principal Component Analysis orthogonalizes variance. Source: ML Handbook",
+    "level": "expert"
+  },
+  {
+    "question": "Which astronomical law relates orbital period squared to semi-major axis cubed?",
+    "options": [
+      "Kepler's third law",
+      "Kepler's first law",
+      "Newton's law",
+      "Hooke's law"
+    ],
+    "correct_answer": "Kepler's third law",
+    "explanation": "T^2 ∝ a^3 for planetary orbits. Source: Celestial Mechanics",
+    "level": "expert"
+  },
+  {
+    "question": "Which encryption mode turns a block cipher into a stream cipher via counter?",
+    "options": [
+      "CBC mode",
+      "CTR mode",
+      "ECB mode",
+      "CFB mode"
+    ],
+    "correct_answer": "CTR mode",
+    "explanation": "Counter mode generates keystream. Source: Cryptography Text",
+    "level": "expert"
+  },
+  {
+    "question": "Which metabolic pathway oxidizes acetyl-CoA generating NADH, FADH2, and GTP?",
+    "options": [
+      "Glycolysis",
+      "Pentose phosphate pathway",
+      "Citric acid cycle",
+      "Beta oxidation"
+    ],
+    "correct_answer": "Citric acid cycle",
+    "explanation": "TCA cycle in mitochondrial matrix. Source: Biochemistry",
+    "level": "expert"
+  },
+  {
+    "question": "Which ocean current moderates Western Europe's climate?",
+    "options": [
+      "Humboldt Current",
+      "Kuroshio Current",
+      "Benguela Current",
+      "North Atlantic Drift"
+    ],
+    "correct_answer": "North Atlantic Drift",
+    "explanation": "Extension of Gulf Stream warms Europe. Source: Oceanography",
+    "level": "expert"
+  },
+  {
+    "question": "Which mathematical transform converts time-domain signals to frequency domain?",
+    "options": [
+      "Fourier transform",
+      "Laplace transform",
+      "Z-transform",
+      "Hadamard transform"
+    ],
+    "correct_answer": "Fourier transform",
+    "explanation": "Decomposes signal into sinusoidal components. Source: Signal Processing",
+    "level": "expert"
+  },
+  {
+    "question": "Which genetic technique edits specific DNA sequences using guide RNA?",
+    "options": [
+      "RNAi",
+      "CRISPR-Cas9",
+      "Gel electrophoresis",
+      "PCR"
+    ],
+    "correct_answer": "CRISPR-Cas9",
+    "explanation": "Cas9 nuclease guided by RNA edits genome. Source: Genetics",
+    "level": "expert"
+  },
+  {
+    "question": "Which astrophysical object emits jets from accretion disk around supermassive black hole?",
+    "options": [
+      "Pulsar",
+      "White dwarf",
+      "Quasar",
+      "Planetary nebula"
+    ],
+    "correct_answer": "Quasar",
+    "explanation": "Quasar luminosity from accretion onto SMBH. Source: Astrophysics",
+    "level": "expert"
+  },
+  {
+    "question": "Which hypothesis explains plate motion via lithospheric slab sinking?",
+    "options": [
+      "Ridge push",
+      "Convection drag",
+      "Mantle plumes",
+      "Slab pull"
+    ],
+    "correct_answer": "Slab pull",
+    "explanation": "Subducting slabs drive motion. Source: Geodynamics",
+    "level": "expert"
+  },
+  {
+    "question": "Which mathematician introduced lambda calculus foundational to functional programming?",
+    "options": [
+      "Alonzo Church",
+      "Alan Turing",
+      "John McCarthy",
+      "Haskell Curry"
+    ],
+    "correct_answer": "Alonzo Church",
+    "explanation": "Church defined lambda calculus 1930s. Source: Computability Theory",
+    "level": "expert"
+  },
+  {
+    "question": "Which 1905 paper described photoelectric effect quantization (surname)?",
+    "options": [
+      "Planck",
+      "Einstein",
+      "Bohr",
+      "De Broglie"
+    ],
+    "correct_answer": "Einstein",
+    "explanation": "Einstein explained light quanta. Source: Annalen der Physik",
+    "level": "expert"
+  }
+]
