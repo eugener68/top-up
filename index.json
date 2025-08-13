@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2025-08-13T22:42:41.944386+00:00",
+  "generated_at": "2025-08-13T23:56:13.697466+00:00",
   "packs": [
     {
       "theme": "general",
@@ -166,7 +166,8 @@
       "type": "multiple_choice",
       "version": "current",
       "languages": [
-        "en"
+        "en",
+        "ru"
       ],
       "language_details": {
         "en": {
@@ -174,6 +175,12 @@
           "sha256": "66c1b603dda46fd5111b27b512107c0485abd01a8e96336b47c482f6ac3b344d",
           "bytes": 15428,
           "path": "packs/general/medium/multiple_choice/current/general_medium_multiple_choice_en.json"
+        },
+        "ru": {
+          "items": 49,
+          "sha256": "d592d24e70f1a0367650ae3a66935bfa84cd75982fc315a5bc06ee202622af9d",
+          "bytes": 21993,
+          "path": "packs/general/medium/multiple_choice/current/general_medium_multiple_choice_ru.json"
         }
       },
       "total_items": 50
